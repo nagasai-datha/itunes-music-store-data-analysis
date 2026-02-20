@@ -47,7 +47,7 @@ The Power BI dashboard provides:
 - 
 ### Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png.jgp)
 ---
 
 ## 🎯 Business Value
