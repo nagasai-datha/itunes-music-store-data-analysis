@@ -50,13 +50,15 @@ The Power BI dashboard provides:
 ![Dashboard Preview](dashboard_preview.png.jpg)
 ---
 
----
-
 ## 🎥 Project Walkthrough Video
 
-Watch the complete project explanation here:
+Watch the full end-to-end explanation including:
 
-👉 [Click here to watch the project video](https://drive.google.com/file/d/19zVf-XIDXELFNEcL2m04ukyDfQQK-ShO/view?usp=drive_link)
+- SQL analysis process
+- Business insights
+- Power BI dashboard walkthrough
+
+👉 **[Watch Project Video (Google Drive)](https://drive.google.com/file/d/19zVf-XIDXELFNEcL2m04ukyDfQQK-ShO/view?usp=drive_link)**
 
 
 ## 🎯 Business Value
