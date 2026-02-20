@@ -44,7 +44,10 @@ The Power BI dashboard provides:
 - Genre performance
 - Customer segmentation
 - Sales distribution analysis
+- 
+### Dashboard Preview
 
+![Dashboard Preview](dashboard_preview.png)
 ---
 
 ## 🎯 Business Value
