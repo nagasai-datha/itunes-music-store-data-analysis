@@ -50,6 +50,15 @@ The Power BI dashboard provides:
 ![Dashboard Preview](dashboard_preview.png.jpg)
 ---
 
+---
+
+## 🎥 Project Walkthrough Video
+
+Watch the complete project explanation here:
+
+👉 [Click here to watch the project video](https://drive.google.com/file/d/19zVf-XIDXELFNEcL2m04ukyDfQQK-ShO/view?usp=drive_link)
+
+
 ## 🎯 Business Value
 
 This project demonstrates how raw transactional data can be transformed into actionable business insights using SQL and visualization tools.
@@ -58,4 +67,4 @@ This project demonstrates how raw transactional data can be transformed into act
 
 ## 👨‍💻 Author
 
-Data Analyst Portfolio Project by Nagasai Datha.
+Data Analyst Portfolio Project by GANGARAPU DATHA NAGA SAI.
